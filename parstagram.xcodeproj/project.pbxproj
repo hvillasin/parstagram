@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4703E9E425F085AF0054C750 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4703E9E325F085AF0054C750 /* CommentCell.swift */; };
 		473BFCE125E7339300E76BE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473BFCE025E7339300E76BE9 /* AppDelegate.swift */; };
 		473BFCE325E7339300E76BE9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473BFCE225E7339300E76BE9 /* SceneDelegate.swift */; };
 		473BFCE825E7339300E76BE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 473BFCE625E7339300E76BE9 /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		32CB6967D9109F705FF01777 /* Pods-parstagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parstagram.debug.xcconfig"; path = "Target Support Files/Pods-parstagram/Pods-parstagram.debug.xcconfig"; sourceTree = "<group>"; };
+		4703E9E325F085AF0054C750 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		473BFCDD25E7339300E76BE9 /* parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		473BFCE025E7339300E76BE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		473BFCE225E7339300E76BE9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				473BFD1E25E734F400E76BE9 /* FeedViewController.swift */,
 				473BFD2A25E740C100E76BE9 /* CameraViewController.swift */,
 				473BFD3825E74B0300E76BE9 /* PostCell.swift */,
+				4703E9E325F085AF0054C750 /* CommentCell.swift */,
 			);
 			path = parstagram;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				473BFD1F25E734F400E76BE9 /* FeedViewController.swift in Sources */,
 				473BFCE325E7339300E76BE9 /* SceneDelegate.swift in Sources */,
 				473BFD3925E74B0300E76BE9 /* PostCell.swift in Sources */,
+				4703E9E425F085AF0054C750 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
